@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Akshara here😀
-- 🌱 I’m currently learning Python,c++,javascript
+- 🌱 I’m currently learning Python, C++, Javascript
 
 <!--
 **Akshara604/Akshara604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
