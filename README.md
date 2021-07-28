@@ -1,6 +1,6 @@
-### Hi there 👋
-### Akshara here😀
+![My header](https://user-images.githubusercontent.com/74604911/127300237-8d306d09-7826-4c8f-872e-ae6b87656a0f.png)
 - 🌱 I’m currently learning Python, C++, Javascript
+
 
 <!--
 **Akshara604/Akshara604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
