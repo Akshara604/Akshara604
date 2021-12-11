@@ -17,6 +17,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshara604&show_icons=true&locale=en&theme=dark" alt="akshara604" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshara604&theme=dark" alt="akshara604" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshara604&layout=compact&theme=dark" width="42%"/>
 
 
 <!--
