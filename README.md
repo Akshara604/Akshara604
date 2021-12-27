@@ -1,5 +1,5 @@
 ![My header](https://user-images.githubusercontent.com/74604911/127300237-8d306d09-7826-4c8f-872e-ae6b87656a0f.png)
-- I am currently developing apps using Kotlin 😃�
+- I am currently developing apps using Kotlin 😃
 - Also learning about Databases and Backend development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshara604&label=Profile%20views&color=0e75b6&style=flat" alt="akshara604" /> </p>
