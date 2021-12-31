@@ -19,7 +19,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshara604&theme=dark" alt="akshara604" width="50% /></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshara604&layout=compact&theme=dark" width="42%"/>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshara604&layout=compact&theme=dark" width="42%"/></p>
 
 
 <!--
