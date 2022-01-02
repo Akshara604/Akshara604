@@ -1,7 +1,6 @@
 ![My header](https://user-images.githubusercontent.com/74604911/127300237-8d306d09-7826-4c8f-872e-ae6b87656a0f.png)
 
-<h3>Little bit about me: </h3>
-<p>Hey! So, What to tell about me 🤔 I am fascinated by AI and technology in general. When free I would either be laughing at memes or reading a book. </p>
+
 - I am currently developing apps using Kotlin 😃
 - Also learning about Databases and Backend development.
 
