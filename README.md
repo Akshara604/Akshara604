@@ -1,5 +1,5 @@
-![My header](https://user-images.githubusercontent.com/74604911/127300237-8d306d09-7826-4c8f-872e-ae6b87656a0f.png)
-
+<!-- ![My header](https://user-images.githubusercontent.com/74604911/127300237-8d306d09-7826-4c8f-872e-ae6b87656a0f.png) -->
+## Hi! Akshara Here
 
 - I am currently developing apps using Kotlin 😃
 - Also learning about Databases and Backend development.
