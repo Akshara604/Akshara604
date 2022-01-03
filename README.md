@@ -1,7 +1,7 @@
 <!-- ![My header](https://user-images.githubusercontent.com/74604911/127300237-8d306d09-7826-4c8f-872e-ae6b87656a0f.png) -->
 # Hi! Akshara Here
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=How+are+you+doing+today+?;Glad+you+visited+my+profile+!;Read+along+to+know+about+me+😉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=How+are+you+doing+today+?;Glad+you+visited+my+profile+!;Read+along+to+know+about+me+😉;)](https://git.io/typing-svg)
 - I am currently learning to develop apps using Kotlin 😃
 - Also learning about Databases and Backend development.
 
