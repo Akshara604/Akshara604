@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/akshara_spa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ironman08032722" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akshara-s-pa-1120bb210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshara-s-pa-1120bb210/" height="30" width="40" /></a>
-<a href="https://medium.com/@dragondash06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dragondash06" height="30" width="40" /></a>
+<a href="https://medium.com/@dragondash06" target="blank"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium" height="30" width="40"/></a>
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshara604&label=Profile%20views&color=0e75b6&style=flat" alt="akshara604" /> </p>
 
