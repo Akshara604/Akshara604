@@ -20,5 +20,5 @@
  &nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshara604&theme=highcontrast" alt="akshara604" width="48%" /></p>
  <p align="center"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshara604&layout=compact&theme=highcontrast" width="42%"/></p>
 
-
+*Note: The most used languages denote the languages used in my repositories, it doesnot denote my skills in that language*
 
